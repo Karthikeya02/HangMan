@@ -15,8 +15,7 @@ var Hangman = (function () {
         this.elId       = elId;
         // Possible words
         this.words      = [
-            'APPLE', 'BALL', 'CAT', 'DOGS',
-            'PYTHON', 'HTML', 'CSS', 'JAVASCRIPT'
+            'HTML', 'CSS', 'JAVASCRIPT', 'NODEJS', 'EXPRESSJS', 'FLASK'
         ];
     }
 
